@@ -17,5 +17,5 @@ jobs:
         with:
           args: >
               -Dsonar.organization=eweileen
-              -Dsonar.projectKey=eweileen_SonarCloudCodeAnalyisis
+              -Dsonar.projectKey=eweileen_Sonarcube2025
               -Dsonar.python.coverage.reportPaths=coverage.xml
